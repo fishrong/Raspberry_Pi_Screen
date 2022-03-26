@@ -1,6 +1,6 @@
 # 一、说明
 此项目是使用树莓派的IO接口驱动OLED屏幕，效果如下：
-![https://github.com/fishrong/Raspberry_Pi_Screen.git/master/IMG_3618.jpg](IMG_3618.jpg)
+![https://github.com/fishrong/Raspberry_Pi_Screen/master/IMG_3618.jpg](IMG_3618.jpg)
 
 # 二、环境依赖
 * opencv
